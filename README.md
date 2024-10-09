@@ -1,5 +1,6 @@
 
 App_tarefas
+
 Gerenciador de Tarefas com Interface Gráfica em Python
 Este projeto é uma aplicação de gerenciamento de tarefas desenvolvida com Python utilizando a biblioteca Tkinter para criação da interface gráfica. O objetivo é oferecer uma ferramenta simples e funcional para adicionar, editar e remover tarefas, com uma interface visual intuitiva e agradável.
 
